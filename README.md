@@ -20,7 +20,8 @@ Each one of these mods is independent from the rest, but they can all be used to
 - - No Attachments (A 1:1 replica of the original muzzle, but without the extra opening for muzzle attachments)
 - - Stock barrel long muzzle (A longer muzzle, no SCAR, that fits the stock barrel from the Deuce Pro)
 
-- Pump Action Kit for the Deuce Pro. Adds a pump to the front of the blaster. Replaces the top slide prime. Adds a long top rail. (This isn't quite finished yet, I still need to attach the back end of the top rail to the blaster more securely.)
+- Pump Action Kit for the Deuce Pro. Adds a pump to the front of the blaster. 
+- - Replaces the top slide prime. Adds a long top rail. (This isn't quite finished yet, I still need to attach the back end of the top rail to the blaster more securely.)
 
 ## Misc.
 
