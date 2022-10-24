@@ -1,11 +1,26 @@
 # DeuceProParts
 Modification parts for the Dart Zone Deuce Pro
 
+<img src="GHimages/Deuce%20Pro%20Upgrades%20v97%201.png" width="500">
+<img src="GHimages/Deuce%20Pro%20Upgrades%20v97%202.png" width="500">
 
 ## Description
 
+This is a collection of mods I made for the Dart Zone Deuce Pro.
 
+Each one of these mods is independent from the rest, but they can all be used together. (aka, you don't NEED to use all of these mods. You can pick and choose.)
 
+- 25mm Spacer for increasing performance
+
+- Replacement muzzle pieces for the barrel extension of the Deuce Pro.
+- - SCAR (Trivictus rifling)
+- - SCAR (Merlynn rifling)
+- - 6in Barrel (A longer muzzle to fit a 6" barrel inside the shell)
+- - Default (A 1:1 replica of the original muzzle)
+- - No Attachments (A 1:1 replica of the original muzzle, but without the extra opening for muzzle attachments)
+- - Stock barrel long muzzle (A longer muzzle, no SCAR, that fits the stock barrel from the Deuce Pro)
+
+- Pump Action Kit for the Deuce Pro. Adds a pump to the front of the blaster. Replaces the top slide prime. Adds a long top rail. (This isn't quite finished yet, I still need to attach the back end of the top rail to the blaster more securely.)
 
 ## Misc.
 
@@ -39,6 +54,7 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 <img src="GHimages/Deuce%20Pro%20Upgrades%20v97%201.png" width="500">
 <img src="GHimages/Deuce%20Pro%20Upgrades%20v97%202.png" width="500">
 <img src="GHimages/pump%20action%20deuce%20pro%20brandenurban%239579%20prototype.jpg" width="500">
+Please excuse the black parts here, this was done by a beta tester. Please use bright colors with any toy blaster.
 
 
 
