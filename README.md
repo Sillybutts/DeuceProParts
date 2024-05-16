@@ -4,6 +4,10 @@ Modification parts for the Dart Zone Deuce Pro
 <img src="GHimages/Deuce%20Pro%20Upgrades%20v97%201.png" width="500">
 <img src="GHimages/Deuce%20Pro%20Upgrades%20v97%202.png" width="500">
 
+<a href="https://www.printables.com/model/875800-deuce-pro-parts-pump-action-scar-muzzles-spring-sp"><img alt="Printables Button" style="border-width:0" src="GHimages/sillybutts%20is%20now%20on%20printables%20thumbnail.png" height="400" /></a>
+
+## I ALSO UPLOAD TO PRINTABLES https://www.printables.com/model/875800-deuce-pro-parts-pump-action-scar-muzzles-spring-sp
+
 ## Description
 
 This is a collection of mods I made for the Dart Zone Deuce Pro.
